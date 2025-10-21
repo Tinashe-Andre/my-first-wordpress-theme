@@ -26,5 +26,3 @@
 <?php } ?>
     
 <?php get_footer(); ?>
-
-<!--Test-->
